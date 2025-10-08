@@ -19,14 +19,14 @@ C'est une course entre trois animaux : une tortue, un lapin et un cheval. Chaque
 
 1. Ouvre IntelliJ et crée un nouveau projet Java.
 2. Ajoute les fichiers sources dans la structure appropriée (`org.example` et sous-packages).
-3. Assure-toi d'utiliser JDK 17 ou supérieur (pour les sealed classes).
+3. Assure-toi d'utiliser JDK 21 ou supérieur (pour les sealed classes).
 4. Compile et exécute la classe `CourseAnimaux` en la sélectionnant puis en cliquant sur Run.
 
 ### Avec Visual Studio Code
 
 1. Ouvre le dossier du projet dans VS Code.
 2. Installe l'extension Java Extension Pack si ce n'est pas déjà fait.
-3. Configure JDK 17 (ou supérieur) dans les paramètres.
+3. Configure JDK 21 (ou supérieur) dans les paramètres.
 4. Compile et lance la classe `CourseAnimaux` via le panneau Run or Debug ou en ligne de commande.
 
 ## Remarques
