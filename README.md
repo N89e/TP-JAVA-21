@@ -20,7 +20,7 @@ C'est une course entre trois animaux : une tortue, un lapin et un cheval. Chaque
 1. Ouvre IntelliJ et crée un nouveau projet Java.
 2. Ajoute les fichiers sources dans la structure appropriée (`org.example` et sous-packages).
 3. Assure-toi d'utiliser JDK 21 ou supérieur (pour les sealed classes).
-4. Compile et exécute la classe `CourseAnimaux` en la sélectionnant puis en cliquant sur Run.
+4. Compile et exécute la classe `CourseAnimaux` en la sélectionnant puis en cliquant sur Run ou clique directement sur Run.
 
 ### Avec Visual Studio Code
 
